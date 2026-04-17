@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header, footer {
+  text-align: center;
+  padding: 15px;
+  border: 2px solid black;
+  background-color: lightgray;
+}
+
+.main1, .main2, .main3 {
+  padding: 20px;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+#sub1, #sub2, #sub3 {
+  display: inline-block;      
+  width: 30%;                
+  vertical-align: top;       
+  border: 2px solid blue;
+  padding: 10px;
+  margin-right: 2%;         
+  box-sizing: border-box;
+}
+
+
+
+
+
+img {
+  width: 100%;
+  height: 150px;
+  border: 1px solid black;
+}
+
+
+h1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+p {
+  font-size: 14px;
+}
